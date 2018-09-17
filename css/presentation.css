@@ -1,4 +1,7 @@
 /** Global Styling **/
+.bottom-wrapper{
+    background-image:url("../images/footer-background.jpg");
+}
 @font-face {
     font-family: "OpenSans_Regular";
 
