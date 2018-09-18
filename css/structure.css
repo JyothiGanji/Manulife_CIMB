@@ -654,8 +654,11 @@ div.promo__item.promo__item--bottom {
 }
 
 .footer__links {
-    float: right;
+       float: right;
     width: 33%;
+    margin-top: -49px;
+    margin-right: 50px;
+}
 }
 
 .footer__copyright,
