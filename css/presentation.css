@@ -170,15 +170,15 @@
 }
 
 .cta__button {
-    color: #fff;
-    background-color: #271818a8;
+    color: #fff;    
+    background-color: #016FBA;
     border-radius: 0;
     border: 0;
     font-family: Arial;
     font-size: 28px;
-    font-weight: bold;
     cursor: pointer;
-    border-bottom: 1px solid #938e8e;
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
 }
 
 .cta__button--button-1{
