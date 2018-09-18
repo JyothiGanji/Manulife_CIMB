@@ -150,13 +150,13 @@ sub {
 }
 
 .cta--side {
-    float: left;
-    width: 270px;
-    min-height: 1px;
+    float: left;          
+    width: 6%;
+    /* min-height: 1px; */
     position: relative;
-    left: 3%;
-    margin-top: 7%;
-    margin-right: -2%;
+    left: 5%;
+    margin-top: 12%;
+    margin-right: 1%;
 }
 
 .fullscreen .cta--side {
@@ -223,7 +223,7 @@ sub {
 }
 
 .cta--side.cta--5 .cta__button {
-    height: 212px;
+   height: 68px;
 }
 
 .fullscreen .cta--side.cta--5 .cta__button {
@@ -257,6 +257,7 @@ sub {
 .player__wrapper {
     width: 1920px;
     height: 1080px;
+    margin-top:-1%
 }
 
 .fullscreen .player__wrapper {
