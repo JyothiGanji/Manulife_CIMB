@@ -881,7 +881,8 @@ div.promo__item.promo__item--bottom {
 
     .cta--side,
     .promo--side {
-        width: 76px;
+	    width: 76px;
+            margin-left: 3px;
     }
 
     .cta--side.cta--1 .cta__button {
@@ -912,8 +913,9 @@ div.promo__item.promo__item--bottom {
     }
 
     .player__wrapper {
-        width: 960px;
-        height: 540px;
+            width: 960px;
+            height: 540px;
+            margin-left: 56px;
     }
 
     .timeline__controls--left {
