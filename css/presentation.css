@@ -715,7 +715,7 @@ timeline {
 
 .footer {
     color: #3d3d3d;
-    background-color: #f0f0f0;
+    background-image:url("../images/footer-background.jpg");
     font-size: 16px;
 }
 
@@ -725,6 +725,7 @@ timeline {
 
 .footer__copyright {
     text-align: left;
+	margin-left:40px;
 }
 
 .footer__links {
@@ -732,14 +733,14 @@ timeline {
 }
 
 .footer__link {
-    color: #3d3d3d;
+    color: #74777d;
     text-decoration: none;
 }
 
 .footer__link:hover,
 .footer__link:active,
 .focusable.footer__link:focus {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .footer__link--image:hover,
