@@ -737,6 +737,7 @@ border-bottom-right-radius: 6%;
 .footer__link {
     color: #ffffff;
     text-decoration: none;
+	height:232px;
 }
 
 .footer__link:hover,
