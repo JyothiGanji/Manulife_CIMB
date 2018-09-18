@@ -902,14 +902,14 @@ border-bottom-right-radius: 6%;
     }
 
     .timeline__button-icon {
-        width: 25px;
-        height: 25px;
+            width: 32px;
+           height: 28px;
     }
 
     .timeline__button-icon--play,
     .timeline__button-icon--pause {
-        width: 30px;
-        height: 30px;
+            width: 21px;
+           height: 28px;
     }
 
     .fullscreen .timeline__button-icon {
@@ -925,11 +925,12 @@ border-bottom-right-radius: 6%;
 
     .timeline__button--skip-back,
     .timeline__button--skip-forward {
-        width: 57px;
+            width: 46px;
+            margin-right: 7px;
     }
 
     .timeline__button--play-pause {
-        width: 51px;
+            width: 46px;
     }
 
     .timeline__button--settings,
