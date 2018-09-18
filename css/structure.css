@@ -779,7 +779,8 @@ div.promo__item.promo__item--bottom {
     .timeline,
     .timeline__controls {
      height: 60px;
-     Width:1420px;	    
+     Width:1420px;
+     margin-bottom: 4%;
     }
 
     .timeline-chapters {
