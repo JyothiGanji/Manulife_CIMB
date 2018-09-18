@@ -266,10 +266,10 @@ sub {
 
 .player__iframe {
     position: relative;
-    width: 80%;
-    height: 80%;
+    width: 960px;
+    height: 540px;
     top: 10%;
-    left: 8%;
+    left: 10%;
     box-shadow: 0 10px 22px -5px black;
 }
 
