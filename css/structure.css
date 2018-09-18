@@ -468,8 +468,8 @@ div.promo__item.promo__item--bottom {
     background: url(images/timeline-marker-hi-res.png) 0px 0px no-repeat;
     top: 0;
     left: 0;
-    height: 82px;
-    width : 24px;
+    height: 60px;
+    width: 1px;
  }
 
 .timeline-progress-hover {
@@ -781,11 +781,11 @@ div.promo__item.promo__item--bottom {
     }
 
     .timeline__controls--left {
-        width: 225px;
+        width: 146px;
     }
 
     .timeline__controls--center {
-        width: 1145px;
+        width: 1142px;
     }
 
     .timeline--no-volume .timeline__controls--center {
@@ -802,8 +802,8 @@ div.promo__item.promo__item--bottom {
     }
 
     .timeline__controls--right {
-        width: 270px;
-        padding-left: 4%;
+        width: 129px;
+        
     }
 
     .timeline--no-volume .timeline__controls--right {
