@@ -903,8 +903,8 @@ border-bottom-right-radius: 6%;
     }
 
     .timeline {
-        font-size: 14px;
-	margin-left: -38px;
+           font-size: 13px;
+        margin-left: 1px;
     }
 
     .timeline__button-icon {
