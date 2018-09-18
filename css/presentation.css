@@ -786,11 +786,11 @@ border-bottom-right-radius: 6%;
 
     .timeline__button--skip-back,
     .timeline__button--skip-forward {
-        width: 77px;
+        width: 49px;
     }
 
     .timeline__button--play-pause {
-        width: 66px;
+        width: 44px;
     }
 
     .fullscreen .timeline__button-icon {
