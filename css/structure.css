@@ -329,6 +329,7 @@ div.promo__item.promo__item--bottom {
     overflow: visible;
     margin: 0 auto;
     padding: 0;
+    margin-left: -67px;
 }
 
 .timeline__cover {
