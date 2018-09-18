@@ -660,8 +660,9 @@ div.promo__item.promo__item--bottom {
 
 .footer__copyright,
 .footer__links {
-   position: relative;
-    top: 2px;
+      position: relative;
+    top: 18px;
+    font-size: 14px;
 }
 
 .top-wrapper--no-cta .header,
