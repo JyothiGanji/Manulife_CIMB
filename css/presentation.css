@@ -728,16 +728,19 @@ border-bottom-right-radius: 6%;
 .footer__copyright {
         text-align: left;
     margin-left: 49px;
+	    font-size: 13px;
 }
 
 .footer__links {
     text-align: right;
+	font-size: 13px;
 }
 
 .footer__link {
     color: #ffffff;
     text-decoration: none;
 	height:232px;
+	font-size: 13px;
 }
 
 .footer__link:hover,
