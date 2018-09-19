@@ -1156,6 +1156,10 @@ border-bottom-right-radius: 6%;
     height: 75px;
     WIDTH: Auto;
     }
+    
+    .footer_link , span {
+	margin-left: -87px;     
+     }
 
     .timeline__button--skip-back,
     .timeline__button--skip-forward {
