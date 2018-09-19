@@ -1146,7 +1146,7 @@ border-bottom-right-radius: 6%;
         font-size: 12px;
     }
 	
-    #jsheader {
+    .header {
     
     text-align: center;
     background: url(../images/header.jpg);
