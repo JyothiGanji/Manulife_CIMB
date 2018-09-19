@@ -1217,6 +1217,7 @@ border-bottom-right-radius: 6%;
 
     .bottom-wrapper {
         background-color: #dbdbdb;
+	        height: 311px;
     }
 
     .footer__poweredby,
