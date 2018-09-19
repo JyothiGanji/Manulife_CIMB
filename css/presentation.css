@@ -1226,6 +1226,8 @@ border-bottom-right-radius: 6%;
     .footer__copyright,
     .footer__links {
         text-align: center;
+    	margin-top: 26px;
+    	margin-left: 2px;
     }
 }
 
