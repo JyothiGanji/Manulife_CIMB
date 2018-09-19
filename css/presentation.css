@@ -1136,7 +1136,7 @@ border-bottom-right-radius: 6%;
     .header {
     color: #fff;
     text-align: center;
-    background: url(../images/pb_demo_header.jpg);
+    background: url(../images/header.jpg);
     background-repeat: repeat-x;
     background-position: center 0px;
     z-index: 3;
