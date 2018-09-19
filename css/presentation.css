@@ -1171,14 +1171,16 @@ border-bottom-right-radius: 6%;
     }
 
     .timeline__button-icon {
-        width: 25px;
-        height: 25px;
+           width: 22px;
+    height: 22px;
+    margin-left: 9px;;
     }
 
     .timeline__button-icon--skip-back,
     .timeline__button-icon--skip-forward {
         width: 22px;
-        height: 22px;
+   	height: 22px;
+    	margin-left: 7px;
     }
 
     .timeline__button-icon--skip-back {
