@@ -1225,9 +1225,13 @@ div.promo__item.promo__item--bottom {
     }
 
     .player__iframe {
-        position: absolute;
-        top: 12%;
-        left: 10%;
+      position: absolute;
+    top: 15%;
+    left: -15%;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    text-align: center;
     }
 
     .timeline {
