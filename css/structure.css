@@ -1310,7 +1310,7 @@ div.promo__item.promo__item--bottom {
 
     .timeline__controls--active-state {
         display: block;
-        width: 50%;
+        width: 68%;
     }
 
     .fullscreen .timeline__controls--active-state {
@@ -1319,8 +1319,7 @@ div.promo__item.promo__item--bottom {
 
     .timeline__controls--right,
     .timeline--no-volume .timeline__controls--right {
-        width: 20%;
-        padding-right: 0;
+            width: 6%;
     }
 
     .fullscreen .timeline__controls--right {
