@@ -1223,8 +1223,10 @@ timeline {
     }
 
     .timeline__controls--left {
-        width: 30%;
-        padding-left: 0;
+        
+    width: 30%;
+    margin-left: -15px;
+}
     }
 
     .timeline__controls--center {
@@ -1358,7 +1360,7 @@ timeline {
         height: 100%;
         width: 81.5px;
     }
-
+	
     .fullscreen .cta--side.cta--2,
     .fullscreen .cta--side.cta--3,
     .fullscreen .cta--side.cta--4,
