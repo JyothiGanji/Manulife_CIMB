@@ -1,4 +1,7 @@
 /** Global Styling **/
+#powered{
+     margin-left:-33%;
+}
 .bottom-wrapper{
     background-image:url("../images/footer-background.jpg");
     height: 74%;
