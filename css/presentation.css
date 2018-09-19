@@ -1174,11 +1174,9 @@ border-bottom-right-radius: 6%;
     
     .footer__link {
     color: #f9f2f2;
-    text-decoration: none;
-	height:232px;
+    text-decoration: solid;
 	font-size: 13px;
-    margin: 59%;
-    margin-left: -407px;
+    
     text-align: center;
    
     }
