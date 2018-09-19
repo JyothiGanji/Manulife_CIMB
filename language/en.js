@@ -55,7 +55,7 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-             "card":"039cbd59"
+             "card":"039cbd59",
             "label": "Email",
             "icon": "email"
         },
