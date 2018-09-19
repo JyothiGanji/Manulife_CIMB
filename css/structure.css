@@ -1284,8 +1284,8 @@ timeline {
     }
 
     .timeline__controls--active-state {
-        display: block;
-        width: 50%;
+            width: 69%;
+	    display: block;
     }
 
     .fullscreen .timeline__controls--active-state {
@@ -1294,7 +1294,7 @@ timeline {
 
     .timeline__controls--right,
     .timeline--no-volume .timeline__controls--right {
-        width: 20%;
+        width: 7%;
         padding-right: 0;
     }
 
