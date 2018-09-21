@@ -80,6 +80,7 @@
         })();
 	    
 	    $( function() {
+		     
     $( "#slider-vertical" ).slider({
       orientation: "vertical",
       range: "min",
@@ -89,7 +90,7 @@
     });
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
-	    
+	
 	
 	    $(document).ready(function() {
 	    
@@ -348,7 +349,7 @@
                             <span id="jsVolumeButtonIcon" class="timeline__button-icon timeline__button-icon--volume-2"></span>
                             <span class="sr-only translate" data-translate="VolumeButtonText">Volume</span>
                         </button>
-			    <div style="background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
+			    <div id="volume" style="background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
     width: 26px;
     position: relative;
     top: -114px;
