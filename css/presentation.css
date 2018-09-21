@@ -1,4 +1,8 @@
 /** Global Styling **/
+.ui-slider-range ui-corner-all ui-widget-header ui-slider-range-min{
+    height: 41%;
+    background: rgb(94, 172, 228);
+}
 #slider-vertical{
     height: 100px;
     display: block;
