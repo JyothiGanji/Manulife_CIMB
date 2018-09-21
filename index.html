@@ -90,7 +90,9 @@
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
 	    
-	
+	$("#jsVolumeButton").mouseenter(function(){
+    $("#slider-vertical").show();
+});
 	    
 	    $("#slider-vertical").mouseenter(function(){
     $("#slider-vertical").show();
@@ -99,6 +101,8 @@
 	    $("#slider-vertical").mouseleave(function(){
     $("#slider-vertical").hide();
 });
+	    
+	    
     </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -110,12 +114,7 @@
 	
 	
 	<style>
-		#slider-vertical {
-  display: none;
-}
-#jsVolumeButton:hover + #slider-vertical {
-  display: inline-block;
-}
+	
 	</style>
 	
 </head>
