@@ -90,13 +90,15 @@
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
 	    
-	    $("#slider-vertical").on("mouseenter"){
-		    $("#slider-vertical").show();
-	    }
-	    $("#slider-vertical").on("mouseleave"){
-		    $("#slider-vertical").hide();
-	    }
+	
 	    
+	    $("#slider-vertical").mouseenter(function(){
+    $("#slider-vertical").show();
+});
+	    
+	    $("#slider-vertical").mouseleave(function(){
+    $("#slider-vertical").hide();
+});
     </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
