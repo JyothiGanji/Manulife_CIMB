@@ -1,4 +1,9 @@
 /** Global Styling **/
+.ui-slider-handle ui-corner-all ui-state-default{
+	bottom: 41%;
+        width: 17px;
+        border-radius: 51px !important;
+}
 .ui-slider-range ui-corner-all ui-widget-header ui-slider-range-min{
     height: 41%;
     background: rgb(94, 172, 228);
@@ -11,7 +16,7 @@
     width: 8px;
 }
 #volume{
-    background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
+    background-image: url(../images/volume-slider-bg.png);
     width: 26px;
     position: relative;
     top: -114px;
