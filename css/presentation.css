@@ -1,4 +1,7 @@
 /** Global Styling **/
+#slider-vertical{
+	background-image:url("../images/volume-slider-bg.png")
+}
 a.footer__link1 {
     text-decoration: none;
     text-align: center;
