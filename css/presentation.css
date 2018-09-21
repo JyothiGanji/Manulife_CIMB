@@ -1,4 +1,11 @@
 /** Global Styling **/
+#slider-vertical{
+    height: 100px;
+    display: block;
+    margin: 0px auto;
+    background: rgb(0, 0, 0);
+    width: 8px;
+}
 #volume{
     background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
     width: 26px;
