@@ -16,13 +16,13 @@
     background: rgb(0, 0, 0);
     width: 8px;
 }
-#volume{
+/*#volume{
     background-image: url("../images/volume-slider-bg.png");
     width: 26px;
     position: relative;
     top: -114px;
     left: 80px;
-    height: 100px;
+    height: 100px;*/
 }
 a.footer__link1 {
     text-decoration: none;
