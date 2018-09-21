@@ -16,7 +16,7 @@
     width: 8px;
 }
 #volume{
-    background-image: url(../images/volume-slider-bg.png);
+    background-image: url("../images/volume-slider-bg.png");
     width: 26px;
     position: relative;
     top: -114px;
