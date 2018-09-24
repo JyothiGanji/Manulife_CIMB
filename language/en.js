@@ -110,10 +110,10 @@ var Translations = {
             ]
         },
         {
-            "label": "Risk Appetite",
+            "label": "planning",
             "states": [
                 {
-                    "cardId": "52e59793",
+                    "cardId": "adcf6912",
                     "width": 20
                 }
              ]
@@ -122,7 +122,7 @@ var Translations = {
           "label": "Appointment",
             "states": [
                 {
-                    "cardId": "9eef0155",
+                    "cardId": "d693c3e0",
                     "width": 10
                 },
                 {
@@ -132,15 +132,24 @@ var Translations = {
              ]
         }, 
         {
-          "label": "Offers",
+          "label": "feedback",
             "states": [
                 {
-                    "cardId": "b2243802",
-                    "width": 20
+                    "cardId": "a5562d89",
+                    "width": 10
                 }
             ]
         },
         {
+            "label": "sharewithus",
+            "states": [
+                {
+                    "cardId": "151447fe",
+                    "width": 10
+                }
+            ]
+        },
+         {
             "label": "Thanks",
             "states": [
                 {
