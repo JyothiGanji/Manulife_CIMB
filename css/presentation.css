@@ -245,7 +245,7 @@ border-bottom-right-radius: 6%;
 
 .cta__icon--contact {
     background-position-x: 0;
-    background: url("../images/contact.png") no-repeat;
+    background: url("../images/contact.jpg") no-repeat;
     --cta-bgX: 0;
 }
 
