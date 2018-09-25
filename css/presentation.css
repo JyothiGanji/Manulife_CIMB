@@ -963,7 +963,7 @@ background: url(../images/Hoverdownload.jpg);
 
     .cta__icon {
         margin-bottom: 10px;
-        width: 20px;
+        width: 0px;
         height: 20px;
     }
 
@@ -972,7 +972,7 @@ background: url(../images/Hoverdownload.jpg);
     }
 
     .cta--side .cta__button {
-        font-size: 10px;
+        font-size: 0px;
     }
 
     .player__splash-image {
