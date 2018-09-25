@@ -232,7 +232,7 @@ border-bottom-right-radius: 6%;
     margin-bottom: 25px;
     width: 60px;
     height: 60px;
-    background: url("../images/cta_icons_ie.png") no-repeat;
+    
     background-position: var(--cta-bgX) var(--cta-bgY);
     background-size: 500% 300%;
 }
@@ -245,6 +245,7 @@ border-bottom-right-radius: 6%;
 
 .cta__icon--contact {
     background-position-x: 0;
+    background: url("../images/contact.png") no-repeat;
     --cta-bgX: 0;
 }
 
