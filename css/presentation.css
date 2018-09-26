@@ -639,7 +639,7 @@ background: url(../images/Hoverdownload.jpg);
 .timeline-volume__ball:hover,
 .timeline-volume__ball:active,
 .focusable.timeline-volume__ball:focus {
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 
 .timeline__settings-popout,
