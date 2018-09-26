@@ -1231,6 +1231,11 @@ background: url(../images/Hoverdownload.jpg);
     text-align: center;
    
     }
+    a.footer__link1 {
+    text-decoration: none;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 1%;
     
     .footer_link , span {
 	     
