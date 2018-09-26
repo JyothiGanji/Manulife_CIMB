@@ -720,7 +720,7 @@ background: url(../images/Hoverdownload.jpg);
 .timeline__settings-text {
     float: left;
     margin-bottom: 9px;
-    color: #818888;
+    /*color: #818888;*/
     line-height: 25px;
 }
 
