@@ -1233,7 +1233,7 @@ background: url(../images/Hoverdownload.jpg);
     }
     
     .footer_link , span {
-	margin-left: -87px;     
+	     
      }
 
     .timeline__button--skip-back,
@@ -1306,7 +1306,7 @@ background: url(../images/Hoverdownload.jpg);
     .footer__links {
         text-align: center;
     	margin-top: 26px;
-    	margin-left: 2px;
+    	margin-left: 3px;
     }
 }
 
