@@ -894,7 +894,7 @@ background: url(../images/Hoverdownload.jpg);
     .timeline__settings-quality,
     .timeline__settings-language,
     .timeline__settings-cc {
-        right: 200px;
+        right: 2px;
     }
 
     .timeline--no-volume .timeline__settings-popout,
