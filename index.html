@@ -71,6 +71,23 @@
                 document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
             }
         })();
+	    
+	 var options = {
+  controlBar: {
+    volumePanel: {
+      inline: false,
+      vertical: true
+    }
+  }
+};
+
+// +++ Add the player attributes +++
+var myPlayer = document.getElementById("myPlayerID");
+myPlayer.setAttribute('data-account', 1752604059001);
+myPlayer.setAttribute('data-player', 'default');
+myPlayer.setAttribute('data-video-id', 5557662144001);
+// +++ Create the player +++
+bc("myPlayerID", options);
     </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -311,6 +328,14 @@
                             <span id="jsVolumeButtonIcon" class="timeline__button-icon timeline__button-icon--volume-2"></span>
                             <span class="sr-only translate" data-translate="VolumeButtonText">Volume</span>
                         </button>
+			<video id="myPlayerID"
+       data-embed="default"
+       data-application-id
+       class="video-js"
+       width="640" height="360"
+       controls></video>
+<script src="//players.brightcove.net/1752604059001/default_default/index.min.js"></script>
+			    
 
                        <div id="jsVolume" class="timeline-volume">
 <div id="jsVolumeBar" class="timeline-volume__bg"></div>
