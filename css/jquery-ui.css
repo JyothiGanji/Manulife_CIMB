@@ -722,8 +722,8 @@ button.ui-button::-moz-focus-inner {
 .ui-slider {
 	position: relative;
 	text-align: left;
-	top: -198%;
-        left: -17%;
+	top: -189%;
+        left: -26%;
 }
 .ui-slider .ui-slider-handle {
 	position: absolute;
@@ -768,12 +768,12 @@ button.ui-button::-moz-focus-inner {
 }
 
 .ui-slider-vertical {
-	width: .8em;
+	width: 18%;
 	height: 100px;
 }
 .ui-slider-vertical .ui-slider-handle {
 	left: -.3em;
-	margin-left: 0;
+	margin-left: 0px;
 	margin-bottom: -.6em;
 }
 .ui-slider-vertical .ui-slider-range {
@@ -931,10 +931,8 @@ body .ui-tooltip {
 works properly when clicked or hovered */
 html .ui-button.ui-state-disabled:hover,
 html .ui-button.ui-state-disabled:active {
-	border: 1px solid #c5c5c5;
-	background: #f6f6f6;
-	font-weight: normal;
-	color: #454545;
+	
+	background: url(../images/volume-slider-ball.png);
 }
 .ui-state-default a,
 .ui-state-default a:link,
@@ -1294,6 +1292,7 @@ a.ui-button:active,
 .ui-corner-left,
 .ui-corner-bl {
 	border-bottom-left-radius: 3px;
+	
 }
 .ui-corner-all,
 .ui-corner-bottom,
