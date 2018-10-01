@@ -90,13 +90,13 @@
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
 	$("#jsVolumeButton").mouseenter(function(){
-           $("#slider-vertical").show().css("display","block");
+           $("#slider-vertical").show()
     });
     $("#jsVolumeButton").mouseleave(function(){
            $("#slider-vertical").hide();
     });
 	    $("#slider-vertical").mouseenter(function(){
-           $("#slider-vertical").show();
+           $("#slider-vertical").show().css("display","block");
     });
     $("#slider-vertical").mouseleave(function(){
            $("#slider-vertical").hide();
