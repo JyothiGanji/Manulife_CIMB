@@ -1279,7 +1279,9 @@ background: url(../images/Hoverdownload.jpg);
     .fullscreen .cta--side .cta__label {
         font-size: 12px;
     }
-	
+	#jsSettingsButton {
+    background: url(../images/quality-btn.png);
+	}
     .header {
     
     text-align: center;
