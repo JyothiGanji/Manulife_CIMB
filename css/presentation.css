@@ -416,6 +416,11 @@ background: url(../images/Hoverdownload.jpg);
     width: 115px;
 }
 
+#jsSettingsButton{
+ background: url(../images/.png);
+ background-position: 0px -50px;
+}
+
 #jsSkipBackButton{
  background: url(../images/skipback-btn.png);
  background-position: 0px -50px;
