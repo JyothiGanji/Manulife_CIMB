@@ -1280,7 +1280,7 @@ background: url(../images/Hoverdownload.jpg);
         font-size: 12px;
     }
 	#jsSettingsButton {
-    background: url(../images/quality-btn.png);
+    background-image: url(../images/quality-btn.png);
 	}
     .header {
     
