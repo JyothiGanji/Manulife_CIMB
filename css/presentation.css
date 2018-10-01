@@ -407,7 +407,7 @@ background: url(../images/Hoverdownload.jpg);
 }
 
 .timeline__button {
-    background-color:#0A5694;
+    /*background-color:#0A5694;*/
     cursor: pointer;
 }
 
