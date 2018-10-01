@@ -418,7 +418,7 @@ background: url(../images/Hoverdownload.jpg);
 
 #jsSkipBackButton{
  background: url(../images/skipback-btn.png);
- background-position: 0px -60px;
+ background-position: 0px -50px;
 }
 
 #jsSkipForwardButton:hover{
@@ -433,6 +433,16 @@ background: url(../images/Hoverdownload.jpg);
 
 #jsSkipForwardButton{
  background: url(../images/skipforward-btn.png);
+ background-position: 0px -50px;
+}
+
+#jsPlayPauseButton:hover{
+ background: url(../images/play-btn.png);
+ background-position: 0px 0px;
+}
+
+#jsPlayPauseButton{
+ background: url(../images/play-btn.png.png);
  background-position: 0px -60px;
 }
 
