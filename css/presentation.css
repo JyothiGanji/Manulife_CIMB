@@ -464,7 +464,8 @@ background: url(../images/Hoverdownload.jpg);
 
 .timeline__button--settings,
 .timeline__button--fullscreen {
-    width: 60px;
+    width: 46px;
+    background: url(../images/quality-btn.png) -83px -50px;
 }
 
 .timeline__button--volume {
