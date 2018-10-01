@@ -839,13 +839,22 @@ background: url(../images/Hoverdownload.jpg);
 .focusable.footer__link--image:focus {
     text-decoration: none;
 }
+#slider-vertical {
+    display: none;
+    margin-left: 90%;
+    margin-top: -60%;
+}
 
 /** 720p **/
 @media screen and (max-width: 2460px) {
     .header__preparedfor {
         font-size: 14px;
     }
-	
+	#slider-vertical {
+    display: none;
+    margin-left: 90%;
+    margin-top: -60%;
+}
     .footer__link {
     color: #f9f2f2;
     text-decoration: none;
@@ -1133,6 +1142,11 @@ background: url(../images/Hoverdownload.jpg);
         width: 26px;
         height: 26px;
     }
+	#slider-vertical {
+    display: none;
+    margin-left: 90%;
+    margin-top: -60%;
+}
 
     .social--top-right .social__icon {
         margin-right: 3px;
