@@ -1330,7 +1330,7 @@ background: url(../images/Hoverdownload.jpg);
 
     .timeline__button-icon--skip-back,
     .timeline__button-icon--skip-forward {
-        width: 22px;
+        width: 0px;
    	height: 22px;
     	margin-left: 7px;
     }
