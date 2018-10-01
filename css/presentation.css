@@ -976,6 +976,11 @@ background: url(../images/Hoverdownload.jpg);
         width: 28px;
         height: 28px;
     }
+	#slider-vertical {
+    display: none;
+    margin-left: 90%;
+    margin-top: -60%;
+}
 
     .social--top-right .social__icon {
         margin-right: 4px;
