@@ -484,9 +484,10 @@ background: url(../images/Hoverdownload.jpg);
 
     display: block;
     margin: 0 auto;
-	margin-left:14px;
-    width: 36px;
+    margin-left:14px;
+    width: 0px;
     height: 31px;
+    background: url(../images/timeline_controls.png);
     background-position-y: 50%;
     background-position: var(--timeline-bgX) var(--timeline-bgY);
     background-size: 2700% 300%;
