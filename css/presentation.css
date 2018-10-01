@@ -517,7 +517,7 @@ background: url(../images/Hoverdownload.jpg);
 }
 
 .timeline__button-icon--play {
-    width: 25px;
+    
     height: 26px;
     background-position-x: calc((100%/26) * 0);
     --timeline-bgX: calc((100%/26) * 0);
