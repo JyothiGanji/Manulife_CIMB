@@ -417,8 +417,13 @@ background: url(../images/Hoverdownload.jpg);
 }
 
 #jsSettingsButton{
- background: url(../images/.png);
- background-position: 0px -50px;
+    background: url(../images/quality-btn.png);
+    background-position: 89px -50px;
+}
+
+#jsSettingsButton:hover{
+    background: url(../images/quality-btn.png);
+    background-position: 89px 0px;
 }
 
 #jsSkipBackButton{
