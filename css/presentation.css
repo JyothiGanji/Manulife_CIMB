@@ -1323,7 +1323,7 @@ background: url(../images/Hoverdownload.jpg);
     }
 
     .timeline__button-icon {
-           width: 22px;
+           width: 0px;
     height: 22px;
     margin-left: 9px;;
     }
