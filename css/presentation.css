@@ -1035,7 +1035,7 @@ background: url(../images/Hoverdownload.jpg);
     }
 
     .timeline__button-icon {
-            width: 32px;
+            /*width: 32px;*/
            height: 28px;
     }
 
