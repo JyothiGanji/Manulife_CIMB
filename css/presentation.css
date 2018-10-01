@@ -416,6 +416,27 @@ background: url(../images/Hoverdownload.jpg);
     width: 115px;
 }
 
+#jsSkipBackButton{
+ background: url(../images/skipback-btn.png);
+ background-position: 0px -60px;
+}
+
+#jsSkipForwardButton:hover{
+ background: url(../images/skipforward-btn.png);
+ background-position: 0px 0px;
+}
+
+#jsSkipBackButton:hover{
+ background: url(../images/skipback-btn.png);
+ background-position: 0px 0px;
+}
+
+#jsSkipForwardButton{
+ background: url(../images/skipforward-btn.png);
+ background-position: 0px -60px;
+}
+
+
 .timeline__button--play-pause {
     width: 100px;
 }
@@ -444,7 +465,6 @@ background: url(../images/Hoverdownload.jpg);
 	margin-left:14px;
     width: 36px;
     height: 31px;
-    background: url("../images/timeline_controls.png") no-repeat;
     background-position-y: 50%;
     background-position: var(--timeline-bgX) var(--timeline-bgY);
     background-size: 2700% 300%;
