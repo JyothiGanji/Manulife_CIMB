@@ -1098,12 +1098,8 @@ background: url(../images/Hoverdownload.jpg);
     .timeline__settings-quality,
     .timeline__settings-language,
     .timeline__settings-cc {
-        top: -180px;
-        right: 150px;
-        padding: 13px;
-        height: 180px;
-        width: 200px;
-        font-size: 15px;
+        top: -158px;
+        right: 30px;
     }
 
     .fullscreen .timeline__settings-popout,
