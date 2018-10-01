@@ -90,7 +90,7 @@
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
 	$("#jsVolumeButton").mouseenter(function(){
-           $("#slider-vertical").show();
+           $("#slider-vertical").show().css("display","block");
     });
     $("#jsVolumeButton").mouseleave(function(){
            $("#slider-vertical").hide();
@@ -113,11 +113,11 @@
 	
 	
 	<style>
-		/*#slider-vertical {
+		#slider-vertical {
   display: none;
   margin-left: 90%;
   margin-top: -60%;
-}*/
+}
 #jsVolumeButton:hover + #slider-vertical {
   display: inline-block;
 }
