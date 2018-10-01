@@ -1062,7 +1062,8 @@ background: url(../images/Hoverdownload.jpg);
     
     .timeline__button--volume:hover {
     width: 52px;
-    background: url(../images/audio-btn.png) 50px 0px;
+	    background: url(../images/audio-btn.png) 50px 0px;
+	}
 
     .fullscreen .timeline__button-icon {
         width: 22px;
