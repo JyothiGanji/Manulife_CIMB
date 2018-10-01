@@ -393,7 +393,7 @@ background: url(../images/Hoverdownload.jpg);
 
 .timeline {
     color: #fff;
-    background:url(../images/timeline-chapters-hi-res.png);
+    background-image:url(../images/timeline-chapters-hi-res.png);
     font-size: 20px;
 }
 
