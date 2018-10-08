@@ -45,12 +45,12 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "d2166039",
+            "card": "aa6495a6",
             "label": "Contact",
             "icon": "contact"
         },
         "button2": {
-            "url": "https://www.cimb.com",
+            "url": "https://www.manulifelabuan.com.my/Home",
             "label": "Website",
             "icon": "website"
         },
@@ -60,9 +60,9 @@ var Translations = {
             "icon": "email"
         },
         "button4": {
-            "card": "acddb957",
-            "label": "Save",
-            "icon": "save"
+            "card": "d77e16c3",
+            "label": "Feedback",
+            "icon": "Feedback"
         },
         "button5": {
             "card": "9ac5a578",
