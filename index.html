@@ -102,7 +102,9 @@
     });
 	    });
 	    
-	    
+	     $(document).ready(function() {
+		   document.getElementById(jsPlayPauseButton).src=url("../manulife_malaysia/images/play-btn_old.png") ;
+	    });
     </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -176,7 +178,7 @@
                             <span class="timeline__button-icon timeline__button-icon--skip-back"></span>
                             <span class="sr-only translate" data-translate="SkipBackButtonText">Skip back</span>
                         </button>
-                        <button id="jsPlayPauseButton" type="button" class="jsTimelineButton timeline__button timeline__button--play-pause no-focus">
+                        <button id="jsPlayPauseButton" type="button" class="jsTimelineButton timeline__button timeline__button--play-pause no-focus" onclick="picturechange()">
                             <span class="timeline__button-icon timeline__button-icon--play"></span>
                             <span id="jsPlayPauseSRText" class="sr-only translate" data-translate="PlayPauseButtonText">Play/Pause</span>
                         </button>
