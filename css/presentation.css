@@ -839,22 +839,22 @@ background: url(../images/Hoverdownload.jpg);
 .focusable.footer__link--image:focus {
     text-decoration: none;
 }
-#slider-vertical {
+/*#slider-vertical {
     display: none;
     margin-left: 90%;
     margin-top: -60%;
-}
+}*/
 
 /** 720p **/
 @media screen and (max-width: 2460px) {
     .header__preparedfor {
         font-size: 14px;
     }
-	#slider-vertical {
+	/*#slider-vertical {
  
     margin-left: 90%;
     margin-top: -119%;;
-}
+}*/
     .footer__link {
     color: #f9f2f2;
     text-decoration: none;
