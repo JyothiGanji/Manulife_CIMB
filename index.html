@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<link rel="stylesheet" href="./css/jquery-ui.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" />
   
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 
@@ -78,18 +78,9 @@
                 document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
             }
         })();
-	    //function changeimage() {
-           // var image = document.getElementById('jsPlayPauseButton');
-            //if (image.src.match("play-btn_new.png")) {
-              //  image.src = "./images/play-btn_new.png";
-            //}
-            //else {
-              //  image.src = "./images/play-btn_old.png";
-            //}
-        //}
-	   
 	    
 	    $( function() {
+		     
     $( "#slider-vertical" ).slider({
       orientation: "vertical",
       range: "min",
@@ -99,18 +90,18 @@
     });
    // $( "#amount" ).val( $( "#slider-vertical" ).slider( "value" ) );
   } );
-	/*$("#jsVolumeButton").mouseenter(function(){
-           $("#slider-vertical").show()
+	
+	
+	    $(document).ready(function() {
+	    
+	    $("#jsVolumeButton").on("mouseenter", function() {
+       $("#volume").show();
     });
-    $("#jsVolumeButton").mouseleave(function(){
-           $("#slider-vertical").hide();
+    $("#volume").on("mouseleave", function() {
+       $(this).hide();  //or $('.overlay').hide()
     });
-	    $("#slider-vertical").mouseenter(function(){
-           $("#slider-vertical").show().css("display","block");
-    });
-    $("#slider-vertical").mouseleave(function(){
-           $("#slider-vertical").hide();
-    })  */  
+	    });
+	    
 	    
     </script>
 
@@ -123,13 +114,15 @@
 	
 	
 	<style>
-		#slider-vertical {
-  display: none;
-  margin-left: 90%;
-  margin-top: -60%;
+	#slider-vertical.ui-slider-range .ui-corner-all .ui-widget-header .ui-slider-range-min{
+	height: 41% !important;
+        background: rgb(94, 172, 228) !important;
 }
-#jsVolumeButton + #slider-vertical {
-  display: inline-block;
+.ui-slider-handle .ui-corner-all .ui-state-default {
+	bottom: 41%;
+        width: 17px;
+	border-radius: 51px !important;
+
 }
 	</style>
 	
@@ -360,43 +353,23 @@
                                 </div>
                             </div>
                         </div>
-                       
-			       
-                       <button id="jsVolumeButton" type="button" class="jsTimelineButton timeline__button timeline__button--volume no-focus" >
+                        
+                        <button id="jsVolumeButton" type="button" class="jsTimelineButton timeline__button timeline__button--volume no-focus">
                             <span id="jsVolumeButtonIcon" class="timeline__button-icon timeline__button-icon--volume-2"></span>
                             <span class="sr-only translate" data-translate="VolumeButtonText">Volume</span>
-			    
                         </button>
-			     <!--<div id="volume" style="background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
+			    <div id="volume" style="background-image: url(../manulife_malaysia/images/volume-slider-bg.png);
     width: 26px;
     position: relative;
     top: -114px;
     left: 80px;
     display:none;					    
-   ">-->
-			    <div id="slider-vertical"</div>
-			  <!--</div>-->
-			       
-			 
-
-			  
-            
-                 <!-- <div id="jsVolume" class="timeline-volume">
-<div id="jsVolumeBar" class="timeline-volume__bg"></div>
-<div id="jsVolumeLevelContainer" class="timeline-volume__container">
-<div id="jsVolumeLevel" class="timeline-volume__level">
-<div id="jsVolumeBall" class="timeline-volume__ball"></div>
-<span id="jsVolumeButtonSRText" class="sr-only translate" data-translate="VolumeButtonText">Volume</span>
-</div>
-</div>
-</div>
-
-<button id="jsFullScreenButton" type="button" class="jsTimelineButton timeline__button timeline__button--fullscreen no-focus">
-<span id="jsFullScreenIcon" class="timeline__button-icon timeline__button-icon--fullscreen"></span>
-<span class="sr-only translate" data-translate="FullScreenButtonText">Full Screen</span>
-</button> -->
+   ">
+			    <div id="slider-vertical">
+			  </div>
                     </div>
-               
+               </div>
+			   </div>
                 
 				<div class="prepend-1 span-6 footer__poweredby">
 				  
@@ -426,21 +399,22 @@
 
 
 
-                <div class="footer__links">
+                <div class="footer__links" style="text-align:right">
                     <a href="#" class="footer__link translate no-focus" data-translate="HelpFooterText" target="_blank">Help</a> 
 					<span style="color:white">|</span>
                     <a href="#" class="footer__link translate no-focus" data-translate="PrivacyPolicyFooterText" target="_blank">Terms of Use</a> 
 					<span style="color:white">|</span>
 		   <a href="#" class="footer__link translate no-focus" data-translate="PrivacyPolicyFooterText" target="_blank">Privacy Policy</a>
                 </div>
-		</div>														   
+		</div>	
+</div>		
 				
 				
 			
 			
             				
             </footer>
-
+			</div>
     
     <script src="js/modernizr-custom.js"></script>
     <script src="js/settings.js"></script>
