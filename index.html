@@ -78,15 +78,15 @@
                 document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
             }
         })();
-	    function changeimage() {
-            var image = document.getElementById('jsPlayPauseButton');
-            if (image.src.match("play-btn_new.png")) {
-                image.src = "./images/play-btn_new.png";
-            }
-            else {
-                image.src = "./images/play-btn_old.png";
-            }
-        }
+	    //function changeimage() {
+           // var image = document.getElementById('jsPlayPauseButton');
+            //if (image.src.match("play-btn_new.png")) {
+              //  image.src = "./images/play-btn_new.png";
+            //}
+            //else {
+              //  image.src = "./images/play-btn_old.png";
+            //}
+        //}
 	   
 	    
 	    $( function() {
@@ -183,7 +183,7 @@
                             <span class="timeline__button-icon timeline__button-icon--skip-back"></span>
                             <span class="sr-only translate" data-translate="SkipBackButtonText">Skip back</span>
                         </button>
-                        <button id="jsPlayPauseButton" type="button" class="jsTimelineButton timeline__button timeline__button--play-pause no-focus" onclick="changeimage()">
+                        <button id="jsPlayPauseButton" type="button" class="jsTimelineButton timeline__button timeline__button--play-pause no-focus">
                             <span class="timeline__button-icon timeline__button-icon--play"></span>
                             <span id="jsPlayPauseSRText" class="sr-only translate" data-translate="PlayPauseButtonText">Play/Pause</span>
                         </button>
