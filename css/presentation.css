@@ -447,13 +447,13 @@ background: url(../images/Hoverdownload.jpg);
 }
 
 #jsPlayPauseButton:hover{
- background: url(../images/play-btn.png);
- background-position: 0px 0px;
+ background: url(../images/play-btn-hi.png);
+ background-position: 0px -5px;
 }
 
 #jsPlayPauseButton{
- background: url(../images/play-btn.png);
- background-position: 0px -50px;
+ background: url(../images/play-btn-hi.png);
+ background-position: 0px -65px;
 }
 
 
