@@ -113,7 +113,7 @@ var Translations = {
             "label": "planning",
             "states": [
                 {
-                    "cardId": "adcf6912",
+                    "cardId": "b9179827",
                     "width": 20
                 }
              ]
@@ -122,11 +122,11 @@ var Translations = {
           "label": "Appointment",
             "states": [
                 {
-                    "cardId": "d693c3e0",
+                    "cardId": "8bc20202",
                     "width": 10
                 },
                 {
-                    "cardId": "4164151c",
+                    "cardId": "e0714014",
                     "width": 10
                 }
              ]
@@ -135,7 +135,7 @@ var Translations = {
           "label": "feedback",
             "states": [
                 {
-                    "cardId": "a5562d89",
+                    "cardId": "167d8135",
                     "width": 10
                 }
             ]
@@ -144,7 +144,7 @@ var Translations = {
             "label": "sharewithus",
             "states": [
                 {
-                    "cardId": "151447fe",
+                    "cardId": "e0714014",
                     "width": 10
                 }
             ]
