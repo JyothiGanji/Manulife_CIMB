@@ -900,7 +900,11 @@ body .ui-tooltip {
 	font-size: 1em;
 }
 .ui-widget.ui-widget-content {
-	border: 1px solid #c5c5c5;
+    background: #0e0c11;
+    left: 9px;
+    top: 0px;
+    width: 7px;
+    height: 99px;
 }
 .ui-widget-content {
 	border: 1px solid #dddddd;
@@ -932,7 +936,13 @@ works properly when clicked or hovered */
 html .ui-button.ui-state-disabled:hover,
 html .ui-button.ui-state-disabled:active {
 	
-	background: url(../images/volume-slider-ball.png);
+    color: #eee;
+    background: url(../images/volume-slider-ball.png);
+    height: 22px;
+    /* width: 22px; */
+    border: none;
+    left: -7px;
+    cursor: pointer;
 }
 .ui-state-default a,
 .ui-state-default a:link,
