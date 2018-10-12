@@ -900,16 +900,22 @@ body .ui-tooltip {
 	font-size: 1em;
 }
 .ui-widget.ui-widget-content {
+    border: 1px solid #00498f;
+    margin-left: 26%;
     background: #0e0c11;
-    left: 9px;
-    top: 0px;
+    left: 4px;
+    top: 1px;
     width: 7px;
-    height: 99px;
+    height: 98px;
 }
 .ui-widget-content {
-	border: 1px solid #dddddd;
-	background: #ffffff;
-	color: #333333;
+    border: 1px solid #00498f;
+    margin-left: 26%;
+    background: #0e0c11;
+    left: 4px;
+    top: 1px;
+    width: 7px;
+    height: 98px;
 }
 .ui-widget-content a {
 	color: #333333;
