@@ -528,6 +528,12 @@ background: url(../images/Hoverdownload.jpg);
     height: 35px;
     background-position-x: calc((100%/26) * 1);
     --timeline-bgX: calc((100%/26) * 1);
+    width: 28px;
+    /* height: 35px; */
+    /* background-position-x: calc((100%/26) * 1); */
+    --timeline-bgX: calc((100%/26) * 1);
+    background: url(../images/play-btn-res.png);
+    background-position: -14px -75px;
 }
 
 .fullscreen .timeline__button-icon--play,
