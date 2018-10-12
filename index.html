@@ -111,11 +111,14 @@
 							$('#volume').show();
 						}
 				);
-				$('#jsVolumeButton').mouseleave(
+				/*$('#jsVolumeButton').mouseleave(
 						function() {
 							$('#volume').hide();
 						}
-				);
+				);*/
+		      $('#jsVolumeButton').mouseleave(function(){
+        $("#volume").hide();
+    });
 		    /*$("#jsVolumeButton").on("mouseleave", function() {
        $("#volume").show();
     });*/
