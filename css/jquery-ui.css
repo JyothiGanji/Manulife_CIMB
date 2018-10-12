@@ -905,22 +905,22 @@ body .ui-tooltip {
 	font-size: 1em;
 }
 .ui-widget.ui-widget-content {
-    border: 1px solid #00498f;
-    margin-left: 26%;
-    background: #0e0c11;
-    left: 4px;
-    top: 1px;
-    width: 7px;
-    height: 98px;
+    border: 1px solid #00498f !important ;
+    margin-left: 26% !important ;
+    background: #0e0c11 !important ;
+    left: 4px !important ;
+    top: 1px !important ;
+    width: 7px !important ;
+    height: 98px !important ;
 }
 .ui-widget-content {
-    border: 1px solid #00498f;
-    margin-left: 26%;
-    background: #0e0c11;
-    left: 4px;
-    top: 1px;
-    width: 7px;
-    height: 98px;
+    border: 1px solid #00498f !important ;
+    margin-left: 26% !important ;
+    background: #0e0c11 !important ;
+    left: 4px !important ;
+    top: 1px !important ;
+    width: 7px !important ;
+    height: 98px !important ;
 }
 .ui-widget-content a {
 	color: #333333;
