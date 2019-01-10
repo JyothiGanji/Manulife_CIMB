@@ -150,13 +150,15 @@ sub {
 }
 
 .cta--side {
-    float: left;          
+   float: left;
     width: 6%;
     /* min-height: 1px; */
     position: relative;
     left: 5%;
-    margin-top: 10%;
+    /* margin-top: 10%; */
     margin-right: 0%;
+    left: 5%;
+    top: 35%;
 }
 
 .fullscreen .cta--side {
@@ -744,7 +746,7 @@ div.promo__item.promo__item--bottom {
 
     .cta--side,
     .promo--side {
-        width: 76px;
+        /*width: 76px;*/
     }
 
     .cta--side.cta--1 .cta__button {
