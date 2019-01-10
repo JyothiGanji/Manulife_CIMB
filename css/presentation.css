@@ -167,7 +167,7 @@ a.footer__link1 {
 }
 
 .cta__button {
-    color: #fff;    
+        color: #fff;
     border-radius: 0;
     border: 0;
     font-family: Arial;
@@ -175,6 +175,13 @@ a.footer__link1 {
     cursor: pointer;
     border-bottom: 1px solid #eee;
     font-weight: bold;
+     /*width: 90%;
+   height: 60%;*/
+    width: 76px;
+   /* height: 65px;*/
+    background: url(images/side-btns.png);
+    position: relative;
+    background-position: 0px 0px;
 }
 
 .cta__button--button-1{
