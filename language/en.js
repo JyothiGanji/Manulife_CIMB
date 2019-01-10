@@ -113,7 +113,7 @@ var Translations = {
             "label": "NEEDS",
             "states": [
                 {
-                    "cardId": "fe1820ca,
+                    "cardId": "fe1820ca",
                     "width": 20
                 }
              ]
