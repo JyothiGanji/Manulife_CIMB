@@ -259,7 +259,7 @@ sub {
 .player__wrapper {
     width: 1920px;
     height: 1080px;
-    margin-top:-1%;
+    margin-top:-2%;
     margin-left: 2%;
 }
 
