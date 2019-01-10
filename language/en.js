@@ -58,7 +58,7 @@ var Translations = {
             "card": "9ac5a578",
             "label": "Save",
             "icon": "save"
-        },
+        }
         /*"button4": {
             "card": "d77e16c3",
             "label": "Feedback",
@@ -110,41 +110,41 @@ var Translations = {
             ]
         },
         {
-            "label": "planning",
+            "label": "Needs",
             "states": [
                 {
-                    "cardId": "b9179827",
+                    "cardId": "fe1820ca",
                     "width": 20
                 }
              ]
         },
         {
-          "label": "Appointment",
+          "label": "About MCL & Manulife",
             "states": [
                 {
-                    "cardId": "8bc20202",
+                    "cardId": "a6003b49",
                     "width": 10
                 },
                 {
-                    "cardId": "e0714014",
+                    "cardId": "c0024b69",
                     "width": 10
                 }
              ]
         }, 
         {
-          "label": "feedback",
+          "label": "Contact Us",
             "states": [
                 {
-                    "cardId": "167d8135",
+                    "cardId": "27f7ae70",
                     "width": 10
                 }
             ]
         },
         {
-            "label": "sharewithus",
+            "label": "Survey",
             "states": [
                 {
-                    "cardId": "e0714014",
+                    "cardId": "dad66a40",
                     "width": 10
                 }
             ]
