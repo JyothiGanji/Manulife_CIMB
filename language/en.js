@@ -149,6 +149,14 @@ var Translations = {
                 },
             ]
         },
+         {
+            "label": "SUREVEY & THANKS",
+            "states": [
+                {
+                    "cardId": "END",
+                    "width": 10
+                } 
+         }
          
    ]
 }
