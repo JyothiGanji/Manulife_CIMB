@@ -58,7 +58,7 @@ var Translations = {
             "card": "9ac5a578",
             "label": "Save",
             "icon": "save"
-        },
+        }
         /*"button4": {
             "card": "d77e16c3",
             "label": "Feedback",
