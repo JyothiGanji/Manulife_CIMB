@@ -150,7 +150,7 @@ sub {
 }
 
 .cta--side {
-   float: left;
+  float: left;
     width: 6%;
     /* min-height: 1px; */
     position: relative;
@@ -746,7 +746,7 @@ div.promo__item.promo__item--bottom {
 
     .cta--side,
     .promo--side {
-        /*width: 76px;*/
+        width: 76px;
     }
 
     .cta--side.cta--1 .cta__button {
