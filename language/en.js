@@ -101,7 +101,7 @@ var Translations = {
      */
      "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "INTRODUCTION",
             "states": [
                 {
                     "cardId": "START",
@@ -110,53 +110,45 @@ var Translations = {
             ]
         },
         {
-            "label": "planning",
+            "label": "NEEDS",
             "states": [
                 {
-                    "cardId": "b9179827",
+                    "cardId": "fe1820ca,
                     "width": 20
                 }
              ]
         },
         {
-          "label": "Appointment",
+          "label": "ABOUT MCL & MANULIFE",
             "states": [
                 {
-                    "cardId": "8bc20202",
-                    "width": 10
-                },
-                {
-                    "cardId": "e0714014",
-                    "width": 10
-                }
+                    "cardId": "a6003b49",
+                    "width": 20
+                }, 
              ]
         }, 
         {
-          "label": "feedback",
+          "label": "CONTACT US",
             "states": [
                 {
-                    "cardId": "167d8135",
-                    "width": 10
+                    "cardId": "c0024b69",
+                    "width": 20
                 }
+                
             ]
         },
         {
-            "label": "sharewithus",
+            "label": "SUREVEY & THANKS",
             "states": [
                 {
-                    "cardId": "e0714014",
+                    "cardId": "27f7ae70",
                     "width": 10
-                }
+                },{
+                    "cardId": "dad66a40",
+                    "width": 10
+                },
             ]
         },
-         {
-            "label": "Thanks",
-            "states": [
-                {
-                    "cardId": "End",
-                    "width": 20
-                }
-            ]
-        },
+         
    ]
 }
