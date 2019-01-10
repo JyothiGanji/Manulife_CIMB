@@ -46,8 +46,8 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "aa6495a6",
-            "label": "Contact",
-            "icon": "contact"
+            "label": "Share",
+            "icon": "share"
         },
         "button2": {
             "url": "https://www.manulifelabuan.com.my/Home",
@@ -55,20 +55,20 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-            "url": "mailto:callcentre@cimb.com?Subject=EngageOne%23Video%20Support%20Request",
-            "label": "Email",
-            "icon": "email"
+            "card": "9ac5a578",
+            "label": "Save",
+            "icon": "save"
         },
-        "button4": {
+        /*"button4": {
             "card": "d77e16c3",
             "label": "Feedback",
             "icon": "Feedback"
         },
         "button5": {
-            "card": "9ac5a578",
-            "label": "Share",
-            "icon": "share"
-        }
+            "url": "mailto:callcentre@cimb.com?Subject=EngageOne%23Video%20Support%20Request",
+            "label": "Email",
+            "icon": "email"
+        }*/
     },
 
     /**
