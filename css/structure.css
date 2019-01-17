@@ -869,6 +869,12 @@ div.promo__item.promo__item--bottom {
     .footer {
         
     }
+	.player__iframe{
+		height: 361px;
+    width: 642px;
+    margin-left: 5%;
+    top: 12%;
+	}
 
     .top-wrapper--no-cta .header,
     .top-wrapper--no-cta .main,
