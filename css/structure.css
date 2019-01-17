@@ -868,7 +868,9 @@ div.promo__item.promo__item--bottom {
     .main,
     .footer {
         
-    }
+	}.footer__link1-no-focus{
+	margin-left: -50%;
+	}
 	.footer__copyright{
 	margin-left: 17%;
 	}
