@@ -123,19 +123,27 @@ var Translations = {
             "states": [
                 {
                     "cardId": "a6003b49",
-                    "width": 10
+                    "width": 5
                 },
                 {
-                    "cardId": "c0024b69",
-                    "width": 10
-                }
+                    "cardId": "f3a7ae85",
+                    "width": 5
+                },
+                {
+                    "cardId": "247089d6",
+                    "width": 5
+                },
+                {
+                    "cardId": "4d18f00e",
+                    "width": 5
+                },
              ]
         }, 
         {
           "label": "Contact Us",
             "states": [
                 {
-                    "cardId": "27f7ae70",
+                    "cardId": "c0024b69",
                     "width": 15
                 }
             ]
@@ -144,7 +152,7 @@ var Translations = {
             "label": "Survey",
             "states": [
                 {
-                    "cardId": "dad66a40",
+                    "cardId": "27f7ae70",
                     "width": 15
                 }
             ]
