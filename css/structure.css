@@ -869,6 +869,9 @@ div.promo__item.promo__item--bottom {
     .footer {
         
     }
+	.footer__copyright{
+	margin-left: 17%;
+	}
 	.player__iframe{
 		height: 361px;
     width: 642px;
