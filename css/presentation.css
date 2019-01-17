@@ -299,7 +299,7 @@ background: url(../images/Hoverdownload.jpg);
 
 .cta__icon--contact {
     background-position-x: 0;
-    background: url("../images/share-btns.png") no-repeat;
+    background: url("../images/share-btns-active.png") no-repeat;
     --cta-bgX: 0;
 }
 
