@@ -729,7 +729,10 @@ div.promo__item.promo__item--bottom {
          height: 662px;
     }
 	a.footer__link1{
-	    margin-left:36%;
+	    margin-left:-33%;
+	}
+	.footer__links{
+		margin-top: -18px;
 	}
 
     .top-wrapper--no-cta .header,
