@@ -872,6 +872,10 @@ div.promo__item.promo__item--bottom {
     .footer {
         
 	}
+	.footer__links{
+	margin-right: 16%;
+    margin-top: -2%;
+	}
 	a.footer__link1{
 	    margin-left: -50%;
 	}
