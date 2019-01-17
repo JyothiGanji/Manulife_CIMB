@@ -871,6 +871,9 @@ div.promo__item.promo__item--bottom {
 	}.footer__link1-no-focus{
 	margin-left: -50%;
 	}
+	a.footer__link1{
+	    margin-left: -50%;
+	}
 	.footer__copyright{
 	margin-left: 17%;
 	}
