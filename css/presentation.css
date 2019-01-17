@@ -1058,13 +1058,14 @@ background: url(../images/Hoverdownload.jpg);
 
     .timeline {
            font-size: 13px;
-        margin-left: 1px;
+           margin-left: 1px;
+	    width:inherit;
     }
 
     .timeline__button-icon {
             /*width: 32px;*/
            height: 28px;
-	   width:inherit;
+	   
     }
 
     .timeline__button-icon--play,
