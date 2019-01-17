@@ -929,6 +929,12 @@ div.promo__item.promo__item--bottom {
             margin-left: 56px;
 	    margin-top: 0%;
     }
+	.player_iframe{
+	width: 644px;
+    height: 362px;
+    top: -30%;
+    margin-left: 3%;
+	}
 
     .timeline__controls--left {
              width: 140px;
