@@ -832,7 +832,7 @@ background: url(../images/Hoverdownload.jpg);
 
 .footer__copyright {
         text-align: left;
-    margin-left: 49px;
+    /*margin-left: 49px;*/
 	    font-size: 13px;
 }
 
