@@ -3,7 +3,7 @@ a.footer__link1 {
     text-decoration: none;
     text-align: center;
     font-size: 13px;
-    margin-left: -36%;
+    /*margin-left: -36%;*/
 }
 .bottom-wrapper{
     background-image:url("../images/footer-background.jpg");
