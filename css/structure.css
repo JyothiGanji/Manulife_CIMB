@@ -944,11 +944,11 @@ div.promo__item.promo__item--bottom {
 
     .timeline__controls--left {
              width: 140px;
-                margin-left: -4px;
+               margin-left: 190px;
     }
 
     .timeline__controls--center {
-            width: 1211px;
+                width: 815px;
     }
 
     .timeline--no-volume .timeline__controls--center {
