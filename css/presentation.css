@@ -1064,6 +1064,7 @@ background: url(../images/Hoverdownload.jpg);
     .timeline__button-icon {
             /*width: 32px;*/
            height: 28px;
+	   width:inherit;
     }
 
     .timeline__button-icon--play,
