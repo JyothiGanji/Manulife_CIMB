@@ -728,6 +728,9 @@ div.promo__item.promo__item--bottom {
 		
          height: 662px;
     }
+	a.footer__link1{
+	    margin-left:36%;
+	}
 
     .top-wrapper--no-cta .header,
     .top-wrapper--no-cta .main,
@@ -868,8 +871,6 @@ div.promo__item.promo__item--bottom {
     .main,
     .footer {
         
-	}.footer__link1-no-focus{
-	margin-left: -50%;
 	}
 	a.footer__link1{
 	    margin-left: -50%;
