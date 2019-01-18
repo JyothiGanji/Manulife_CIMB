@@ -45,7 +45,7 @@ var Translations = {
      */
     "CtaButtonSettings": {
         "button1": {
-            "card": "aa6495a6",
+            "card": "257522e9",
             "label": "Share",
             "icon": "share"
         },
@@ -55,7 +55,7 @@ var Translations = {
             "icon": "website"
         },
         "button3": {
-            "card": "9ac5a578",
+            "card": "a84f3919",
             "label": "Save",
             "icon": "save"
         }
